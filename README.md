@@ -2,7 +2,8 @@ Olá, eu sou o Gustavo Nocera Santiago!
 
 Estou me graduando em Engenharia de Biossistemas pela USP.
 Por conta disso, a maioria dos meus projetos serão voltados para ferramentas de auxílio à engenharia ou ligados à agricultura,
-como por exemplo automação de processos para análise de imagens ligadas a cultivos.
+como por exemplo automação de processos para análise de imagens ligadas a cultivos
+ou produção de equipamentos e robôs que auxiliarão produtores e consultores.
 No entanto, nada me impede de realizar projetos em outras à inteligência artificial, outros processos de automação
 e ligados com a zootecnia de precisão.
 
