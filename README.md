@@ -1,14 +1,19 @@
+Hello, I'm Gustavo N. Santiago!
+
+
+
+
 Olá, eu sou o Gustavo Nocera Santiago!
 
-Estou me graduando em Engenharia de Biossistemas pela USP.
-Por conta disso, a maioria dos meus projetos serão voltados para ferramentas de auxílio à engenharia ou ligados à agricultura,
-como por exemplo automação de processos para análise de imagens ligadas a cultivos
-ou produção de equipamentos e robôs que auxiliarão produtores e consultores.
-No entanto, nada me impede de realizar projetos em outras à inteligência artificial, outros processos de automação
-e ligados com a zootecnia de precisão.
+I have a degree in Biosystems Engineering by University of Sao Paulo, at Brazil.
+Because of this, most of my projects will be geared towards tools to aid engineering or related to agriculture,
+such as process automation for image analysis linked to crops
+or production of equipment and robots that will help producers and consultants.
+However, nothing prevents me from carrying out projects other than artificial intelligence, other automation processes
+or even linked to precision zootechnics.
 
-Adoro aprender e estou aqui para isso, nunca para de aprender e buscar os meus objetivos.
-Quando traço um fim, atravesso mares e rios para chegar até ele.
+I love learning and I'm here for it, I never stop learning and pursuing my goals.
+When I draw an end, I cross seas and rivers to reach it.
 <!---
 GustavoSantiago113/GustavoSantiago113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
