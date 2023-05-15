@@ -1,9 +1,4 @@
-Hello, I'm Gustavo N. Santiago!
-
-
-
-
-Olá, eu sou o Gustavo Nocera Santiago!
+Hello World, I'm Gustavo N. Santiago!
 
 I have a degree in Biosystems Engineering by University of Sao Paulo, at Brazil.
 Because of this, most of my projects will be geared towards tools to aid engineering or related to agriculture,
